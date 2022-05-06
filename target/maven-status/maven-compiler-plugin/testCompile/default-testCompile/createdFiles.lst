@@ -1,0 +1,8 @@
+model/BusinessTest.class
+validation/DiscoverTest.class
+model/CategoryFactoryTest.class
+validation/AmexTest.class
+model/EconomyTest.class
+validation/VisaTest.class
+model/PremiumEconomyTest.class
+validation/MasterCardTest.class
